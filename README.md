@@ -88,3 +88,4 @@
 4. SHT 31: https://github.com/ControlEverythingCommunity/SHT31/blob/master/Arduino/SHT31.ino
 5. I2C scan: https://github.com/bhaskar-anil429/arduino-i2c-scan
 6. https://www.instructables.com/id/ESP8266-Temp-Humidity-Monitoring-Web-App-Using-Ard/
+7. Wire: https://www.arduino.cc/en/Reference/Wire
