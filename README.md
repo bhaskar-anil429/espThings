@@ -89,3 +89,9 @@
 5. I2C scan: https://github.com/bhaskar-anil429/arduino-i2c-scan
 6. https://www.instructables.com/id/ESP8266-Temp-Humidity-Monitoring-Web-App-Using-Ard/
 7. Wire: https://www.arduino.cc/en/Reference/Wire
+
+## Future Enhancement 
+1. To host another web page where the user can config its wifi credentials.
+2. Deep sleep mode- We can put ESP to deep sleep mode to conserve power
+3. To enhance the no. of sensors using i2c
+4. Createa mesh network using ESp's.
